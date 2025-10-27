@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-28T01:51:57.499908Z",
+  "lastUpdated": "2025-10-28T01:52:57.499908Z",
   "brands": [
     {
       "brandName": "Zara",
@@ -2046,7 +2046,7 @@
           "variants": [
             {
               "contextLabel": "En magasin",
-              "days": 31,
+              "days": 30,
               "notes": "Retour gratuit en magasin sous 30 jours",
               "exceptions": [
                 "Sous-vêtements portés",
@@ -2055,7 +2055,7 @@
             },
             {
               "contextLabel": "Achat en ligne",
-              "days": 31,
+              "days": 30,
               "notes": "Retour sous 30 jours (frais de retour à votre charge)",
               "exceptions": [
                 "Sous-vêtements portés"
