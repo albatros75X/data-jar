@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-27T01:50:57.499908Z",
+  "lastUpdated": "2025-10-28T01:50:57.499908Z",
   "brands": [
     {
       "brandName": "Zara",
@@ -2041,12 +2041,12 @@
       "countries": [
         {
           "countryCode": "FR",
-          "lastUpdated": "2025-10-26",
+          "lastUpdated": "2025-10-28",
           "moreInfoUrl": "https://www.celio.com/aide/retours-et-echanges",
           "variants": [
             {
               "contextLabel": "En magasin",
-              "days": 31,
+              "days": 30,
               "notes": "Retour gratuit en magasin sous 30 jours",
               "exceptions": [
                 "Sous-vêtements portés",
@@ -2055,7 +2055,7 @@
             },
             {
               "contextLabel": "Achat en ligne",
-              "days": 31,
+              "days": 30,
               "notes": "Retour sous 30 jours (frais de retour à votre charge)",
               "exceptions": [
                 "Sous-vêtements portés"
