@@ -2046,7 +2046,7 @@
           "variants": [
             {
               "contextLabel": "En magasin",
-              "days": 30,
+              "days": 31,
               "notes": "Retour gratuit en magasin sous 30 jours",
               "exceptions": [
                 "Sous-vêtements portés",
@@ -2055,7 +2055,7 @@
             },
             {
               "contextLabel": "Achat en ligne",
-              "days": 30,
+              "days": 31,
               "notes": "Retour sous 30 jours (frais de retour à votre charge)",
               "exceptions": [
                 "Sous-vêtements portés"
